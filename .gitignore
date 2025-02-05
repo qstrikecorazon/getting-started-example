@@ -1,6 +1,7 @@
 node_modules
 dist
 .idea
+/.npmrc
 
 .cache
 packages/remixapp/build
