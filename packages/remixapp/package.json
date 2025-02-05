@@ -1,5 +1,5 @@
 {
-  "name": "remixapp",
+  "name": "@qstrikecorazon/remixapp",
   "version": "0.0.1-alpha.0",
   "private": true,
   "sideEffects": false,
